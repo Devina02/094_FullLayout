@@ -23,21 +23,23 @@
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="button1"
             android:layout_margin="20dp"
-            android:layout_weight="3"/>
+            android:layout_weight="3"
+            android:text="we are one" />
+
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="button2"
             android:layout_margin="20dp"
-            android:layout_weight="1"/>
+            android:layout_weight="1"
+            android:text="exo" />
     </LinearLayout>
+
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="10dp"
-        android:text="button3"/>
+        android:text="we are one exo" />
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -59,16 +61,21 @@
         <ImageButton
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:srcCompay="@drawable/left"
-            android:layout_marginRight="95dp"/>
+            android:layout_marginRight="95dp"
+            android:background="#2E3435"
+            android:src="@drawable/ic_baseline_keyboard_arrow_left_24"
+            android:srcCompay="@drawable/left" />
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="click here"/>
+
         <ImageButton
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:srcCompat="@drawable/right"
-            android:layout_marginLeft="95dp"/>
+            android:layout_marginLeft="95dp"
+            android:background="#2E3435"
+            android:src="@drawable/ic_baseline_keyboard_arrow_right_24"
+            android:srcCompat="@drawable/right" />
     </LinearLayout>
 </LinearLayout>

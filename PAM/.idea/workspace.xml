@@ -8,16 +8,57 @@
       <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PAM2/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/PAM2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PAM2/.idea/compiler.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/PAM2/.idea/gradle.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/PAM2/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/PAM2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PAM2/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PAM2/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PAM2/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PAM2/app/src/androidTest/java/com/example/pam2/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PAM2/app/src/main/AndroidManifest.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/PAM2/app/src/main/java/com/example/pam2/FrameLayout.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PAM2/app/src/main/java/com/example/pam2/MainActivity.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/PAM2/app/src/main/java/com/example/pam2/activity_linear_layout.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PAM2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/PAM2/app/src/main/res/drawable-v24/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PAM2/app/src/main/res/drawable-v24/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PAM2/app/src/main/res/drawable/ic_baseline_keyboard_arrow_left_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PAM2/app/src/main/res/drawable/ic_baseline_keyboard_arrow_right_24.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/PAM2/app/src/main/res/drawable/ic_baseline_logout_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PAM2/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/PAM2/app/src/main/res/layout/activity_frame_layout.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/PAM2/app/src/main/res/layout/activity_linear_layout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PAM2/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PAM2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PAM2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PAM2/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PAM2/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PAM2/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PAM2/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PAM2/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PAM2/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PAM2/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PAM2/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PAM2/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PAM2/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PAM2/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PAM2/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PAM2/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PAM2/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PAM2/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PAM2/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PAM2/app/src/test/java/com/example/pam2/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PAM2/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PAM2/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PAM2/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PAM2/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PAM2/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PAM2/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PAM2/settings.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
